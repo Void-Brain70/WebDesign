@@ -1,0 +1,49 @@
+#header
+{
+	color: #ff0a54;
+	text-align: center;
+	background: #d6d6d6;
+	padding-bottom: 20px;
+	padding-top:10px;
+	margin-bottom: 80px;
+}
+
+.player-info
+{
+	border: 1px solid black
+	padding-top:5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 20px;
+	width: 400px;
+	height: 200px;
+	overflow: scroll;
+}
+
+#ronaldo, #voting-form
+{
+	margin-top:60px; 
+}
+
+img
+{
+	width: 200px;
+	height: auto;
+}
+
+#messi p
+{
+	color: orange;
+}
+
+
+/*body
+{
+    background-image: url(images/messi3.jpg); 
+    background-repeat: repeat-y;
+    background-position: center center;
+}*/
+
+
+
+
