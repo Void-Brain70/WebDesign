@@ -20,22 +20,33 @@
 	overflow: scroll;
 }
 
-#ronaldo, #voting-form
+/*#ronaldo, #voting-form
 {
 	margin-top:60px; 
 }
-
+*/
 img
 {
 	width: 200px;
 	height: auto;
 }
 
-#messi p
+a:link{
+	color: red;
+}
+a:visited{
+	color: green;
+}
+a:hover
+{
+	color: black;
+}
+
+/*#messi p
 {
 	color: orange;
 }
-
+*/
 
 /*body
 {
