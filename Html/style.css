@@ -8,14 +8,14 @@
 	margin-bottom: 80px;
 }
 
+#header ~div
+{
+	margin-top: 80px;
+}
 .player-info
 {
 	border: 1px solid black
-	padding-top:5px;
-	padding-left: 15px;
-	padding-right: 15px;
-	padding-bottom: 20px;
-	width: 400px;
+	padding:15px;
 	height: 200px;
 	overflow: scroll;
 }
@@ -40,6 +40,21 @@ a:visited{
 a:hover
 {
 	color: black;
+}
+
+
+/* Font */
+h2,h3
+{
+	font-family: Arial,sans-serif;
+}
+h3
+{
+	font-size: 24px;
+}
+p
+{
+	font-family: 'Roboto Slab',serif;
 }
 
 /*#messi p
