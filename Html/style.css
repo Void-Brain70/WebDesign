@@ -18,6 +18,14 @@
 	padding:15px;
 	height: 200px;
 	overflow: scroll;
+	background-color: rgb(43,79,106); 
+	color:white;
+}
+
+.player-info:hover
+{
+	background: rgba(43,79,106,0.7);
+	/*opacity: 0.5;*/
 }
 
 /*#ronaldo, #voting-form
